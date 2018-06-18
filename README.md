@@ -1,1 +1,1 @@
-# Java_mp3_player
+Java mini project
